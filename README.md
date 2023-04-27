@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Antries Jircy
+- 👋 Hi, I’m Antries Jircy
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate Frame work
